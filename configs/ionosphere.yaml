@@ -1,0 +1,7 @@
+# ionosphere.yaml
+id: 52
+name: "Ionosphere"
+type: "binary"
+target_column: "Class"
+train_test_split_ratio: 0.7
+random_seed: 42
